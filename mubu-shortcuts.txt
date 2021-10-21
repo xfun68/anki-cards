@@ -1,0 +1,11 @@
+tags:shortcut mubu productivity
+展开/收缩:Cmd/Alt + .
+展开/收缩同级主题:Cmd + Shift + .
+展开/收缩 1、2、3 级主题:Cmd + Alt + 1,2,3
+全部展开/收缩:Cmd + Alt + Shift + .
+添加图片:Alt + Enter
+向上移动主题:Cmd + Shift + Up
+乡下移动主题:Cmd + Shift + Down
+进入演示模式:Cmd + Alt + Shift + P
+查看思维导图:Cmd + Alt + Shift + M
+打开快捷键帮助:Cmd + /
