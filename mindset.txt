@@ -1,5 +1,0 @@
-Bloom's Taxonomy 的内容是？:Remember 记住<br>Understand 理解<br>Apply 能用<br>Analyze 分析<br>Evaluate 评价<br>Create 创新:bloom mnemonic
-Bloom's Taxonomy 最低一级是啥？:Remember:bloom mnemonic
-Bloom's Taxonomy 最高一级是啥？:Create:bloom mnemonic
-Bloom's Taxonomy 一共几级？:6 级:bloom mnemonic
-Bloom's Taxonomy 中文助记口诀？:鲫鲤鳙粉（分）平常（创）<br>记理用、分评创<br>记住、理解、能用，分析、评价、创新:bloom mnemonic
